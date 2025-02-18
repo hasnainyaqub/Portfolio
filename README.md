@@ -1,7 +1,7 @@
 # Portfolio Repository
 
 ## About Me
-Hi, I am xxx! I am currently learning Data Science from [Codanics.com](https://codanics.com) as part of a **6-month Data Science and AI Mentorship Program**. This program covers a wide range of topics, including:
+Hi, I am xxx! I am currently learning Data Science from [Codanics.com](https://codanics.com) as part of a **6-months of Data Science and AI Mentorship Program**. This program covers a wide range of topics, including:
 
 - **Python**
 - **Pandas** (EDA, data preprocessing, cleaning, integration, transformation, reduction, discretization, outlier handling, encoding, feature engineering, etc.)
